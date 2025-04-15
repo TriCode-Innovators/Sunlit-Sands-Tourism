@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.7b6039a3.js",
-    "static/js/453.3e504014.chunk.js": "/static/js/453.3e504014.chunk.js",
-    "index.html": "/index.html",
-    "main.7b6039a3.js.map": "/static/js/main.7b6039a3.js.map",
-    "453.3e504014.chunk.js.map": "/static/js/453.3e504014.chunk.js.map"
+    "main.js": "/Sunlit-Sands-Tourism/static/js/main.8decc282.js",
+    "static/js/453.3e504014.chunk.js": "/Sunlit-Sands-Tourism/static/js/453.3e504014.chunk.js",
+    "index.html": "/Sunlit-Sands-Tourism/index.html",
+    "main.8decc282.js.map": "/Sunlit-Sands-Tourism/static/js/main.8decc282.js.map",
+    "453.3e504014.chunk.js.map": "/Sunlit-Sands-Tourism/static/js/453.3e504014.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.7b6039a3.js"
+    "static/js/main.8decc282.js"
   ]
 }

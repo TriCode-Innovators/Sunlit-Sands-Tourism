@@ -7,11 +7,11 @@ import { BrowserRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 // Set basename conditionally based on environment
-const basename = process.env.NODE_ENV === 'production' ? '/SUNLIT-SANDS-TOURISM-' : '/';
+const basename = process.env.NODE_ENV === 'production' ? '/Sunlit-Sands-Tourism' : '/';
 
 root.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={basename}>
       <App />
     </BrowserRouter>
   </React.StrictMode>

@@ -11,7 +11,7 @@ const basename = process.env.NODE_ENV === 'production' ? '/SUNLIT-SANDS-TOURISM-
 
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename={basename}>
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </React.StrictMode>
